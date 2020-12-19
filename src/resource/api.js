@@ -11,10 +11,6 @@ function getCountry(country) {
         .then((response) => response.json());
 }
 
-//export default {
-//    getCountry
-//}
-
 const Api = {
     getCountry
 }
