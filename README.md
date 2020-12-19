@@ -54,9 +54,9 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ### 📱 Mobile 
 
 <p align="center">
-  <img alt="covid19_react_page_mobile-p1" title="covid19_react_page_mobile-p1" src="img/covid19_react_page_mobile-p1.png" width="250px">
-  <img alt="covid19_react_page_mobile-p2" title="covid19_react_page_mobile-p2" src="img/covid19_react_page_mobile-p2.png" width="250px">  
-  <img alt="covid19_react_page_mobile-p3" title="covid19_react_page_mobile-p3" src="img/covid19_react_page_mobile-p3.png" width="250px">  
+  <img alt="covid19_react_page_mobile-p1" title="covid19_react_page_mobile-p1" src="img/covid19_react_page_mobile-p1.jpeg" width="250px">
+  <img alt="covid19_react_page_mobile-p2" title="covid19_react_page_mobile-p2" src="img/covid19_react_page_mobile-p2.jpeg" width="250px">  
+  <img alt="covid19_react_page_mobile-p3" title="covid19_react_page_mobile-p3" src="img/covid19_react_page_mobile-p3.jpeg" width="250px">  
 </p>
 
 ## 💻 Executando a aplicação
